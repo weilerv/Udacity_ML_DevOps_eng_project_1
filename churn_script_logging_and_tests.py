@@ -1,3 +1,9 @@
+'''
+Create testing and logging for churn_library.py functions
+Virág Weiler
+August 2023
+'''
+
 import os
 import logging
 from churn_library import import_data, perform_eda, encoder_helper, perform_feature_engineering, train_models
